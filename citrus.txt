@@ -1,1 +1,2 @@
 mango is yellow.
+apple is red.
